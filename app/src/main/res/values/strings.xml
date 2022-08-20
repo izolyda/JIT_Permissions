@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PermissionsExperiments</string>
+    <string name="btn_request_audio">Request audio</string>
+    <string name="btn_request_camera">Request camera</string>
+    <string name="btn_request_multiple_permissions">Request multiple permissions</string>
+    <string name="permissions_label">Test permissions</string>
+
+    <string name="coarse_location_granted">Coarse location permission granted.</string>
+    <string name="coarse_location_denied">Coarse location permission denied.</string>
+    <string name="fine_location_granted">Fine location permission granted.</string>
+    <string name="fine_location_denied">Fine location permission denied.</string>
+    <string name="camera_granted">Camera permission granted.</string>
+    <string name="camera_denied">Camera permission denied.</string>
+    <string name="audio_recording_granted">Audio recording permission granted.</string>
+    <string name="audio_recording_denied">Audio recording permission denied.</string>
+
+    <string name="permission_granted">Permission granted.</string>
+    <string name="permission_denied">Permission denied.</string>
+
+</resources>
